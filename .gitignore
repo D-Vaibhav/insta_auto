@@ -1,0 +1,9 @@
+# secret file
+.env
+# excluding actual bulky packages
+venv
+logs
+*.log
+
+# apple generated ecosystem file
+*.DS_Store
